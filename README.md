@@ -12,7 +12,13 @@ Features
 Supported platform
 ------------------
 
-- Linux
+- Linux (x11)
+
+### Pull requests are welcome
+
+- Linux wayland
+- Windows
+- MacOS
 
 Requirement
 -----------
